@@ -31,10 +31,11 @@
 Here are some of my notable projects:  
 - 📚 **Library Management System** – A Java-based project for managing books and users efficiently.  
 - 🎨 **Photography Portfolio Website** – A stylish and responsive portfolio built with HTML, CSS, and JS.  
-
+  
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/absar-anwer-4b25b3247)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/absar-anwer-4b25b3247/)  
 - 🏗️ [Portfolio](https://sites.google.com/view/absaranwer/home)  
-- 📩 Email: absaranwer539@gmail.com 
+- 📩 Email: absaranwer539@gmail.com  
+
 
 Let's collaborate and build something amazing! 🚀  
