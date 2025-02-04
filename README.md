@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Absar Anwer</h1>
-<h3 align="center">CS Student | Exploring Java, Web Development (HTML, CSS, JS) & Beyond</h3>
+# Hi there! 👋 I'm [Your Name]
 
-- 🌱 I’m currently learning **Java, Angular**
+🎓 **Computer Science Student** | 💻 **Java & Web Developer** | 🚀 **Exploring Angular**  
 
-- 💬 Ask me about **Java, Python**
+## 🚀 About Me  
+- 🔹 I'm currently learning **Java** and have developed projects like a **Library Management System**.  
+- 🔹 I have experience with **HTML, CSS, and JavaScript** for frontend development, crafting eye-catching web pages.  
+- 🔹 I built a **Photography Portfolio Website** showcasing my frontend development skills.  
+- 🔹 Currently diving into **Angular** to develop modern web apps with Java.  
 
-- 📫 How to reach me **absaranwer539@gmail.com**
+## 🛠️ Tech Stack  
+### 💻 Programming Languages  
+- Java ☕  
+- HTML, CSS, JavaScript 🌐  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🏗️ Frameworks & Tools  
+- Angular (Learning) 🔄  
+- Git & GitHub 🐙  
+- VS Code, IntelliJ IDEA 🔧  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📌 Projects  
+Here are some of my notable projects:  
+- 📚 **Library Management System** – A Java-based project for managing books and users efficiently.  
+- 🎨 **Photography Portfolio Website** – A stylish and responsive portfolio built with HTML, CSS, and JS.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=absar-1&show_icons=true&locale=en&layout=compact" alt="absar-1" /></p>
+## 📫 Connect with Me  
+- 💼 [LinkedIn](#)  
+- 🏗️ [Portfolio](#)  
+- 📩 Email: your.email@example.com  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absar-1&show_icons=true&locale=en" alt="absar-1" /></p>
-
+Let's collaborate and build something amazing! 🚀  
