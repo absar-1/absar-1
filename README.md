@@ -24,8 +24,8 @@ Here are some of my notable projects:
 - 🎨 **Photography Portfolio Website** – A stylish and responsive portfolio built with HTML, CSS, and JS.  
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](#)  
-- 🏗️ [Portfolio](#)  
-- 📩 Email: your.email@example.com  
+- 💼 [www.linkedin.com/in/absar-anwer-4b25b3247](#)  
+- 🏗️ [https://sites.google.com/view/absaranwer/home](#)  
+- 📩 Email: absaranwer539@gmail.com 
 
 Let's collaborate and build something amazing! 🚀  
