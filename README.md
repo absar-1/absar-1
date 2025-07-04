@@ -31,7 +31,4 @@ Here are some of my notable projects:
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/absar-anwer-4b25b3247/)  
 - 🏗️ [Portfolio](https://sites.google.com/view/absaranwer/home)  
-- 📩 Email: absaranwer539@gmail.com  
-
-
-Let's collaborate and build something amazing! 🚀  
+- 📩 Email: absaranwer539@gmail.com
