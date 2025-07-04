@@ -4,8 +4,7 @@
 
 ## 🚀 About Me  
 - 🔹 I'm currently learning **Java** and have developed projects like a **Library Management System**.  
-- 🔹 I have experience with **HTML, CSS, and JavaScript** for frontend development, crafting eye-catching web pages.   
-- 🔹 Currently diving into **Angular** to develop modern web apps with Java.  
+- 🔹 I have experience with **HTML, CSS, and JavaScript** for frontend development, crafting eye-catching web pages. 
 - 🔹 I completed the **Google Data Analytics Professional Certificate**, learning **SQL, PostgreSQL, R, and data analysis techniques**.  
 
 ## 🛠️ Tech Stack  
