@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Absar Anwer
 
-🎓 **Computer Science Student** | 💻 **Java & Web Developer** | 🚀 **Exploring Angular**  
+🎓 **Computer Science Student** | 💻 **Java & Web Developer** 
 
 ## 🚀 About Me  
 - 🔹 I'm currently learning **Java** and have developed projects like a **Library Management System**.  
