@@ -27,6 +27,7 @@
 Here are some of my notable projects:  
 - 📚 **Library Management System** – A Java-based project for managing books and users efficiently.  
 - 🎨 **Photography Portfolio Website** – A stylish and responsive portfolio built with HTML, CSS, and JS.  
+- ✅ **React ToDo App** – A responsive task manager built with Vite + React and MockAPI for backend.  
   
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/absar-anwer-4b25b3247/)  
